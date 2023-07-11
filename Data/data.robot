@@ -3,5 +3,5 @@
 *** Variables ***
 
 ${url}      https://www.orangehrm.com/
-${browser}      edge
+${browser}      chrome
 ${element}=
